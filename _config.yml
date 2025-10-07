@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "João G M Ribeiro"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,23 +24,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "João Gabriel Martins Ribeiro"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "I am a Brazilian climate researcher completing my PhD in Climate and Sustainability. My work focuses on understanding large-scale climate changes, extreme events, and potential impacts of climate interventions using climate model data. I am passionate about advancing scientific knowledge to support global climate assessments and sustainable decision-making."
+  location         : "Itajubá - Minas Gerais - Brazil"
+  employer         : "Federal University of Itajubá"
+  uri              : "https://linktr.ee/joao_gmr472"
+  email            : "gabrielmr472@unifei.edu.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=6TS3RmQAAAAJ&hl=pt-BR"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9854-8693"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,30 +48,30 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : https://www.facebook.com/profile.php?id=100027748685945
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://instagram.com/joao_garibeiro
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : www.linkedin.com/in/joão-gabriel-m-ribeiro-1213a8127
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  spotify          : https://open.spotify.com/user/31vashzm433mdhmxpbuxl46ewbsm?si=wQhIdZyrRxqfdRT2fgUy9w
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : https://x.com/JGMribeiroo
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
