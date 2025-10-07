@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About Me**
+
 ===
 I hold a Bachelor's degree in Atmospheric Sciences from the Federal University of Itajubá (UNIFEI), Brazil (2015–2020), where I developed a strong foundation in meteorology, climate dynamics, and environmental analysis. I then pursued my Master's degree in Environment and Water Resources (2021–2023) at UNIFEI, during which my research focused on lightning physics and mesoscale convective systems over southerneast Brazil. In the end of my masters, I started the evaluation the impacts of stratospheric aerosol injection (SAI) on extreme precipitation associated with extratropical cyclones in the Southern Hemisphere. This work involved the use of climate model projections to assess how potential geoengineering interventions could affect storm dynamics and regional hydrology.
 
