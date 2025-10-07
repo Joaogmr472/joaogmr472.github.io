@@ -55,15 +55,15 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : https://www.facebook.com/profile.php?id=100027748685945
+  facebook         : profile.php?id=100027748685945
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://instagram.com/joao_garibeiro
+  instagram        : joao_garibeiro
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/joão-gabriel-m-ribeiro-1213a8127
+  linkedin         : joão-gabriel-m-ribeiro-1213a8127
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
